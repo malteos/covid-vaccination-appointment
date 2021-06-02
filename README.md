@@ -3,7 +3,7 @@
 A simple script for getting a COVID-19 vaccination appointment ("Impftermin") in Berlin.
 The bot will open a browser windows with Doctolib and will play a sound as soon as an time slot is available so you can continue booking the slot.
 
-![Example](https://github.com/malteos/covid-vaccination-appointment/raw/main/demo.gif)
+![Example](https://github.com/malteos/covid-vaccination-appointment/raw/master/demo.gif)
 
 ### Requirements
 - Python 3.6+
